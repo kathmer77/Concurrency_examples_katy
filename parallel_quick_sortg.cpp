@@ -8,7 +8,7 @@
 #include <list> 
 
 
-*/
+
 std::list<int> parallel_quick_sort(std::list<int> data){
     if(data.size()<2){
         return data;
